@@ -2,6 +2,8 @@
 
 <img src="https://github.com/donridley1972/.NET-Manifest-Creator/blob/master/screenshot.png" width=600/>
 
+<img src="https://github.com/donridley1972/.NET-Manifest-Creator/blob/master/screenshot2.png" width=900/>
+
 
 Very simple tool for creating manifests for .NET DLL's.
 
